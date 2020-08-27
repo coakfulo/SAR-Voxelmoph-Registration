@@ -97,7 +97,7 @@
 
 运行SSAIM.py ,传递用于测试的基准图和待配准图路径txt文件，模型将会比较每一个样本配准前后结构相似性。
 
-<img src="/Users/huangwenbin/Desktop/未命名文件夹/data/基准_vs_待配准.png" alt="基准_vs_待配准" style="zoom:36%;" />
+<img src="data/基准_vs_待配准.png" alt="基准_vs_待配准" style="zoom:36%;" />
 
-<img src="/Users/huangwenbin/Desktop/未命名文件夹/data/_基准vs_配准后.png" alt="_基准vs_配准后" style="zoom:36%;" />
+<img src="data/_基准vs_配准后.png" alt="_基准vs_配准后" style="zoom:36%;" />
 
