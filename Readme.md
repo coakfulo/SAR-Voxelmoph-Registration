@@ -2,7 +2,7 @@
 
 ##### **简介**
 
-​	基于Voxelmoph（https://github.com/voxelmorph/voxelmorph）的无监督SAR图片配准。对于同一场景不同波段或入射角度获取SAR图像进行变形配准。网络结构可选择voxelmorph代码包networks里面的模型，默认使用unet-core基础模型。原理参考论文：**VoxelMorph: A Learning Framework for Deformable Medical Image Registration**
+​	基于Voxelmoph（https://github.com/voxelmorph/voxelmorph)的无监督SAR图片配准。对于同一场景不同波段或入射角度获取SAR图像进行变形配准。网络结构可选择voxelmorph代码包networks里面的模型，默认使用unet-core基础模型。原理参考论文：**VoxelMorph: A Learning Framework for Deformable Medical Image Registration**
 
 ##### **安装依赖库**
 
